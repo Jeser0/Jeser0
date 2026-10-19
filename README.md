@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Jeser0.gif" alt="Jeser0 - Full Stack Developer" width="100%" />
+<img src="assets/jeser0-banner-final.gif" alt="Jeser0 - Developer" width="720" />
 
 ### Building software that solves real business problems.
 
