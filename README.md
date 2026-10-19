@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Nicolas Romano - Full Stack Developer animated banner" width="100%" />
+<img src="assets/Jeser0.gif" alt="Jeser0 - Full Stack Developer" width="100%" />
 
 ### Building software that solves real business problems.
 
